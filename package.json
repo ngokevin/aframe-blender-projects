@@ -1,0 +1,19 @@
+{
+  "name": "aframe-blender-projects",
+  "description": "Collection of personal Blender projects rendered in A-Frame.",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "python -m SimpleHTTPServer 34213",
+    "ghpages": "ghpages"
+  },
+  "devDependencies": {
+    "ghpages": "0.0.3"
+  },
+  "keywords": [
+    "aframe",
+    "aframe-blender",
+    "aframe-blender-projects",
+    "blender"
+  ]
+}
